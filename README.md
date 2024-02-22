@@ -2,6 +2,8 @@
 
 ### Experience
 Data Analyst @ Tanzania Cricket Association
+- Impact 1
+- Impact 2
 
 ### Certifications
 Certificate in Football Tactical Analyst
